@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    line-height: 1.58;
+}
+
+.menu {
+    background-color: rgb(13, 11, 18);
+    color: white;
+    text-align: center;
+    padding: 1.5rem;
+}
+
+.menu h1 {
+    margin: 0;
+}
+
+.banner {
+    background-image: url(images/banner.jpg);
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+}
+
+.principal h1 {
+    margin: 0;
+}
+
+.principal h2 {
+    color: rgba(0, 0, 0, 0.541176);
+    font-size: 28px;
+    margin-top: 5px;
+    margin-bottom: 22px;
+}
+
+.principal p {
+    margin-top: 29px;
+}
+
+#conteudo-left {
+    width: 500px;
+    float: left;
+    padding: 10px;
+}
+
+#conteudo-right {
+    width: 500px;
+    float: left;
+    
+}
+
+h2{
+    text-align: center;
+}
+
+.tudo{
+    background-color: rgb(13, 11, 18);
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+p{
+    font-size: 18px;
+    color: aliceblue;
+    text-align: center;
+}
+
+h1{
+    color: aliceblue;
+    text-align: left;
+    padding-left: 280px;
+}
+
+.final{
+    background-color: rgb(29, 28, 32);
+    padding: 5px;
+}
+
+.linha{
+    color: aliceblue;
+    text-align: left;
+    padding: 10px;
+}
+h4{
+    text-align: center;
+    color: rgb(140, 114, 244);
+}
+
+.slide{
+    padding: 5px;
+}
+
+.opa{
+    padding-top: 50px;
+}
+.oi{
+    padding: 5px;
+}
+
+.foto{
+    padding-left: 10px;
+    padding-bottom: 40px;
+}
