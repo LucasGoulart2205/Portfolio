@@ -1,2 +1,2 @@
 # Portfolio
-Neste repositório você encontra minhas experiencias.
+Neste repositório você encontra minhas experiências.
